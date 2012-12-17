@@ -83,6 +83,6 @@ class wfos_SequenceMysqlImpl implements wfstrategies_Sequence {
 	 */
 	protected function getTableName()
 	{
-		return "m_wfstategies_sequence_".$this->name;
+		return "m_wfos_sequence_".$this->name;
 	}
 }
