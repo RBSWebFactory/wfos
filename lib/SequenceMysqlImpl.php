@@ -1,5 +1,5 @@
 <?php
-class wfos_SequenceMysqlImpl implements wfstrategies_Sequence {
+class wfos_SequenceMysqlImpl implements wfos_Sequence {
 	/**
 	 * 
 	 * @var string
